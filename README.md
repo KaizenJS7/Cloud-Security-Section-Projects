@@ -3,7 +3,7 @@
 <h2> Microsoft Sentinel:</h2>
 
 - <b>Deploy and managing Sentinel</b>
-  - [Phishing Analysis Hands On Challenge](https://github.com/KaizenJS7/Phishing-Analysis-Hands-On-Challenge)
+  - [Deployment Prerequisites](https://github.com/KaizenJS7/Deployment-Prerequisites/blob/main/README.md)
   - 
   - 
 - <b>Network Security (Home Lab)</b>
