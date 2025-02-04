@@ -2,9 +2,9 @@
 
 <h1>Hi, I'm Jose Sanchez Jr!
 
-<h2>👨‍💻 Cloud Security Projects:</h2>
+<h2> Microsoft Sentinel:</h2>
 
-- <b>Phishing Analysis</b>
+- <b>Deploy and manage Sentinel</b>
   - [Phishing Analysis Hands On Challenge](https://github.com/KaizenJS7/Phishing-Analysis-Hands-On-Challenge)
   - 
   - 
