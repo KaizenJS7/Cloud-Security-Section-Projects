@@ -4,7 +4,7 @@
 
 - <b>Deploy and managing Sentinel</b>
   - [Deployment Prerequisites](https://github.com/KaizenJS7/Deployment-Prerequisites/blob/main/README.md)
-  - 
+  - [Create a Resource Group] (https://github.com/KaizenJS7/Create-an-Azure-Resource-Group/blob/main/README.md)
   - 
 - <b>Network Security (Home Lab)</b>
   - [Name](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
