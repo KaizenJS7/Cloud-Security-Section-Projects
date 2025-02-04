@@ -1,7 +1,5 @@
 # Cloud-Security-Projects
 
-<h1>Hi, I'm Jose Sanchez Jr!
-
 <h2> Microsoft Sentinel:</h2>
 
 - <b>Deploy and managing Sentinel</b>
