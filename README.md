@@ -1,6 +1,6 @@
 # Cloud-Security-Projects
 
-<h2> Microsoft Sentinel:</h2>
+<h2> Microsoft Sentinel (SIEM):</h2>
 
 - <b>Deploy and managing Sentinel</b>
   - [Deployment Prerequisites](https://github.com/KaizenJS7/Deployment-Prerequisites/blob/main/README.md)
