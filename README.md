@@ -8,8 +8,8 @@
   - [Create a Log Analytics Workspace](https://github.com/KaizenJS7/Create-a-Log-Analytics-Workspace/tree/main)
   - [Create a Sentinel Workspace](https://github.com/KaizenJS7/Create-a-Sentinel-Workspace/tree/main)
   - [Azure RBAC for Sentinel](https://github.com/KaizenJS7/Azure-RBAC-for-Sentinel/tree/main)
-- <b>Network Security (Home Lab)</b>
-  - [Name](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- <b>Log Analytics</b>
+  - [Log Analytics Workspace](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Endpoint Security (Home Lab)</b>
  
 - <b>Security Information and Event Management (SIEM) (Home Lab) </b>
